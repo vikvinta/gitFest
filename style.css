@@ -891,3 +891,40 @@
 	margin-left: 425px;
 	margin-top: -67px; 
 }
+
+.rectangle-col {
+      width: 50%;
+      float: left;
+}
+
+.rectangle-col-right {
+      text-align: right;
+}
+.rectangle-2-col-left {
+      width: 33,33%;
+      float: left;
+}
+
+.rectangle-2-col-centre {
+      width: 33,33%;
+}
+
+.rectangle-2-col-right {
+      width: 33,33%;
+      float: right;
+}
+
+.rectangle-3-col {
+      width: 40%;
+      float: left;
+}
+
+.rectangle-3-right {
+      width: 60%;
+      text-align: right;
+}
+
+.rectangle-col-4 {
+      width: 50%;
+      float: left;
+}
