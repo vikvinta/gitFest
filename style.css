@@ -1,8 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300i,400,400i,700,700i,800');
+
+
 * {
 	margin: 0px;
 	padding: 0px;
 }
+
 
 #rectangle {
 	width: 100%;
@@ -13,13 +16,12 @@
 }
 
 #plt {
-      width: 168px;
-  	  height: 30px;
       font-family: Open Sans;
       font-size: 13px;
       line-height: 1.15;
       color: #7d639f;
-      margin-left: 139px;
+      text-align: left;
+      margin-left: 180px;
 }
 
 #button {
@@ -34,30 +36,25 @@
      font-weight: 600;
      color: #ffffff;
      line-height: 50px;
-     margin-left: 546px;
 }
 #h1 {
-	width: 800px;
-    height: 50px;
     font-family: Open Sans;
     font-size: 42px;
     font-weight: 300px;
     text-align: center;
     color: #46237a;
-    margin-left: 337px;
     padding-top: 150px;
 
 }
 #h3 {
-	 width: 233px;
-     height: 46px;
      font-family: Open Sans;
      font-size: 17px;
      font-style: italic;
      text-align: center;
      color: #2b2929;
-     margin-left: 558px;
+     text-align: center;
      padding-top: 70px;
+
 }
 #ins {
 	 width: 113px;
@@ -105,8 +102,7 @@
    height: 600px;
    background-color: #ffffff;
 }
-#h12{
-  height: 43px;
+.h12{
   font-family: Open Sans;
   font-size: 32px;
   font-weight: bold;
@@ -114,19 +110,20 @@
   text-align: center;
   color: #46237a;
   letter-spacing: normal;
-  margin-left: 25px;
+  text-align: center;
   padding-top: 50px;
 }
 #vozm {
-  width: 584px;
-  height: 56px;
   font-family: Open Sans;
   font-size: 20px;
   font-weight: 300;
   text-align: center;
   color: #454545;
-  margin-left: 380px;
   padding-top: 4px;
+}
+.setka {
+  width: 33%;
+  float:left;
 }
 #rectangle-2-col {
   height: 300px;
@@ -143,14 +140,12 @@
   margin-left: 135px;
   padding-top: 40px;
 }
-#caf {
-  width: 52px;
-  height: 26px;
+.caf {
   font-family: Open Sans;
   font-size: 19px;
   text-align: center;
   color: #ffffff;
-  margin-left: 139px;
+  text-align: center;
   padding-top: 20px;
 }
 #p {
@@ -179,6 +174,10 @@
   color: #ffffff;
   margin-left: 142px;
 }
+.setka {
+  width: 33%;
+  float:left;
+}
 #rectangle-2-col-centre {
   height: 300px;
   background-color: #924992;
@@ -193,14 +192,12 @@
   padding-top: 41px;
   margin-left: 135px
 }
-#rest {
-  width: 99px;
-  height: 26px;
+.caf {
   font-family: Open Sans;
   font-size: 19px;
   text-align: center;
   color: #ffffff;
-  margin-left: 116px;
+  text-align: center;
   padding-top: 20px;
 }
 #dhc {
@@ -212,6 +209,10 @@
   text-align: center;
   color: #ffffff;
   margin-left: 142px;
+}
+.setka {
+  width: 33%;
+  float:left;
 }
 #rectangle-2-col-right {
   width: 330px;
@@ -228,14 +229,12 @@
   margin-left: 130px;
   padding-top: 41px;
 }
-#drugie {
-   width: 196px;
-  height: 26px;
+.caf {
   font-family: Open Sans;
   font-size: 19px;
   text-align: center;
   color: #ffffff;
-  margin-left: 67px;
+  text-align: center;
   padding-top: 20px; 
 }
 #ds {
@@ -258,6 +257,9 @@
   margin-left: 540px;
   padding-top: 60px;
 }
+.butt{
+  text-align: center;
+}
 #button-2 {
   width: 212px;
   border-radius: 66px;
@@ -269,7 +271,8 @@
   color: #ffffff;
   margin-bottom: 50px;
   text-align: center;
-  margin-top: 20px;
+  margin-top: 28px;
+  margin-bottom: 90px;
 }
 #polos {
   width: 1345px;
@@ -378,14 +381,12 @@
   background-color: #faf5f1;
   margin-top: 93px;
 }
-#ser {
-  width: 450px;
-  height: 43px;
+.h12 {
   font-family: Open Sans;
   font-size: 32px;
   font-weight: bold;
   color: #46237a;
-  margin-left: 495px;
+  text-align: center;
   padding-top: 50px;
 }
 #rectangle-col-4 {
@@ -631,14 +632,12 @@
   background-color: #dfdfdf;
   margin-top: 98px;
 }
-#otz {
-  width: 306px;
-  height: 43px;
+.h12 {
   font-family: Open Sans;
   font-size: 32px;
   font-weight: bold;
   color: #46237a;
-  margin-left: 567px;
+  text-align: center;
   margin-top: 60px;
   margin-bottom: 100px;
 }
@@ -660,7 +659,7 @@
   margin-left: 110px;
   margin-top: -50px;
 }
-#name {
+.name {
   font-family: Open Sans;
   font-size: 18px;
   font-weight: 600;
@@ -713,7 +712,7 @@
   margin-top: -50px;
 }
 
-#name {
+.name {
   font-family: Open Sans;
   font-size: 18px;
   font-weight: 600;
@@ -750,7 +749,7 @@
   margin-left: 110px;
   margin-top: -50px;
 }
-#name {
+.name {
   font-family: Open Sans;
   font-size: 18px;
   font-weight: 600;
