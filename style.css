@@ -121,6 +121,9 @@
   color: #454545;
   padding-top: 4px;
 }
+.row {
+  width: 600px;
+}
 .setka {
   width: 33%;
   float:left;
