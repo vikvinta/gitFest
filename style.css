@@ -102,6 +102,10 @@
    height: 600px;
    background-color: #ffffff;
 }
+.rectangle-22 {
+ margin: 50px;
+
+}
 .h12{
   font-family: Open Sans;
   font-size: 32px;
@@ -121,162 +125,143 @@
   color: #454545;
   padding-top: 4px;
 }
+
 .row {
-  width: 600px;
+  width: 100%;
+  text-align: center;
+  margin: 30px;
 }
-.setka {
-  width: 33%;
-  float:left;
-}
-#rectangle-2-col {
-  height: 300px;
-  background-color: #fb485c;
-  margin-left: 120px;
-  margin-top: 50px;
-  width: 330px;
+.col {
+  width: 33.33%;
   float: left;
 }
-#cafe {
-  width: 60px;
-  height: 61px;
-  object-fit: contain;
-  margin-left: 135px;
-  padding-top: 40px;
+.card {
+  width: 330px;
+  height: 300px;
+  margin: 20px;
+}
+.card-background-pink {
+  background-color: #fb485c;
+  width: 330px;
+  height: 300px;
+  margin: 20px;
+}
+.cafe {
+  margin-top: 25px;
 }
 .caf {
   font-family: Open Sans;
-  font-size: 19px;
-  text-align: center;
   color: #ffffff;
-  text-align: center;
-  padding-top: 20px;
+  margin-top: 20px;
 }
-#p {
-  width: 48px;
+.po {
+   width: 48px;
   height: 2px;
   background-color: #ffffff;
-  margin-left: 142px;
-  margin: 5% auto;
+  margin-left: 140px;
+  margin-top: 20px;
 }
-#sp {
-  width: 42px;
-  height: 49px;
-  font-family: Open Sans;
+.spm{
+  text-align: center;
+  color: #ffffff;
   font-size: 36px;
-  font-weight: 300;
-  text-align: center;
-  color: #ffffff;
-  margin-left: 142px;
-}
-#mest {
-   width: 36px;
-  height: 22px;
   font-family: Open Sans;
-  font-size: 16px;
+  margin-top: 20px;
+}
+.mest{
+  font-family: Open Sans;
+  font-size: 12px;
   text-align: center;
   color: #ffffff;
-  margin-left: 142px;
 }
-.setka {
-  width: 33%;
-  float:left;
-}
-#rectangle-2-col-centre {
+.card {
+  width: 330px;
   height: 300px;
+  margin: 20px;
+}
+.card-2 {
   background-color: #924992;
-  margin-left: 540px;
-  width: 330px;
-  margin-top: 50px;
+}  
+.ball{
+  margin-top: 25px;
 }
-#schar {
-  width: 60px;
-  height: 60px;
-  object-fit: contain; 
-  padding-top: 41px;
-  margin-left: 135px
-}
-.caf {
+.res{
   font-family: Open Sans;
-  font-size: 19px;
+  color: #ffffff;
+  margin-top: 20px;
+}
+.po {
+   width: 48px;
+  height: 2px;
+  background-color: #ffffff;
+  margin-left: 140px;
+  margin-top: 20px;
+}
+.r-24 {
   text-align: center;
   color: #ffffff;
-  text-align: center;
-  padding-top: 20px;
-}
-#dhc {
-  width: 42px;
-  height: 49px;
-  font-family: Open Sans;
   font-size: 36px;
-  font-weight: 300;
-  text-align: center;
-  color: #ffffff;
-  margin-left: 142px;
-}
-.setka {
-  width: 33%;
-  float:left;
-}
-#rectangle-2-col-right {
+  font-family: Open Sans;
+  margin-top: 20px;
+}  
+.card {
   width: 330px;
   height: 300px;
+  margin: 20px;
+}
+.card-3{
   background-color: #46237a;
-  float: left;
-  margin-left: 955px;
-  margin-top: -300px;
 }
-#kar {
-  width: 70px;
-  height: 60px;
-  object-fit: contain;
-  margin-left: 130px;
-  padding-top: 41px;
+.karaoke{
+  margin-top: 30px;
 }
-.caf {
+.drug{
   font-family: Open Sans;
-  font-size: 19px;
+  color: #ffffff;
+  margin-top: 20px;
+}
+.po {
+   width: 48px;
+  height: 2px;
+  background-color: #ffffff;
+  margin-left: 140px;
+  margin-top: 20px;
+}
+.dvss{
   text-align: center;
   color: #ffffff;
-  text-align: center;
-  padding-top: 20px; 
-}
-#ds {
-   width: 42px;
-  height: 49px;
-  font-family: Open Sans;
   font-size: 36px;
-  font-weight: 300;
-  text-align: center;
-  color: #ffffff;
-  margin-left: 144px;
+  font-family: Open Sans;
+  margin-top: 20px;
 }
-#spusd {
-  width: 360px;
-  height: 33px;
+.spusd {
   font-family: Open Sans;
   font-size: 24px;
   text-align: center;
   color: #2b2929;
-  margin-left: 540px;
-  padding-top: 60px;
 }
 .butt{
   text-align: center;
 }
-#button-2 {
-  width: 212px;
+#button {
+   width: 240px;
+     height: 50px;
+     border-radius: 54px;
+     background-color: #fb485c;
+     text-align: center;
+     margin: 0 auto;
+     font-family: Open Sans;
+     font-size: 18px;
+     font-weight: 600;
+     color: #ffffff;
+     line-height: 50px;
+   }
+.b {
+    width: 212px;
+  height: 50px;
   border-radius: 66px;
-  background-color: #fb485c;
-  margin-left: 605px;
-  padding: 15px;
-  height: 22px;
-  font-family: Open Sans;
-  color: #ffffff;
-  margin-bottom: 50px;
-  text-align: center;
-  margin-top: 28px;
-  margin-bottom: 90px;
-}
+
+}   
 #polos {
   width: 1345px;
   height: 1px;
@@ -641,8 +626,7 @@
   font-weight: bold;
   color: #46237a;
   text-align: center;
-  margin-top: 60px;
-  margin-bottom: 100px;
+
 }
 #rectangle-col-5 {
   width: 33,33%;
