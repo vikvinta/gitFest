@@ -239,7 +239,11 @@
   font-size: 24px;
   text-align: center;
   color: #2b2929;
+  margin-bottom: 25px;
 }
+.clearfix {
+      clear:both;
+    }
 .butt{
   text-align: center;
 }
@@ -255,6 +259,7 @@
      font-weight: 600;
      color: #ffffff;
      line-height: 50px;
+     margin-bottom: 85px;
    }
 .b {
     width: 212px;
@@ -270,100 +275,35 @@
   margin-bottom: 39px;
 }
 
-#rectangle-3-col {
-      width: 40%;
-      float: left;
-}
-#przdn {
-  width: 413px;
-  height: 384px;
-  object-fit: contain;
-  margin-left: 162px;
-  padding-top: 100px;
-}
-#rectangle-3-right {
-      width: 40%;
-      float: left;
-}
- #ot {
-  width: 302px;
-  height: 72px;
-  font-family: OpenSans;
-  font-size: 32px;
-  font-weight: bold;
-  line-height: 1.13;
-  color: #46237a;
-  margin-left: 635px;
-  padding-top: 80px;
-}
-#sobir {
-  width: 592px;
-  height: 84px;
-  font-family: Open Sans;
-  font-size: 21px;
-  font-weight: 300;
-  color: #454545;
-  margin-left: 635px;
-  padding-top: 12px;
-}
-#circle {
-  width: 48px;
-  height: 48px;
-  background-color: #ffffff;
-  border: solid 1px #dfdfdf;
-  margin-left: 635px;
-  border-radius: 50%;
-  margin-top: 40px;
-}
-#funds {
-  width: 24px;
-  height: 22px;
-  object-fit: contain;
-  margin-left: 12px;
-  padding-top: 12px;
-}
-#vs {
-    width: 277px;
-  height: 24px;
-  font-family: Open Sans;
-  font-size: 18px;
-  color: #454545;
-  margin-left: 695px;
-  margin-top: -36px;
-}
-#chair {
-  width: 20.3px;
-  height: 28px;
-  object-fit: contain;
-  margin-left: 14px;
-  padding-top: 10px;
-}
-#sam {
-   width: 337px;
-  height: 24px;
-  font-family: Open Sans;
-  font-size: 18px;
-  color: #454545;
-  margin-left: 695px;
-  margin-top: -33px;
-}
-#favorites {
-  width: 22px;
-  height: 23px;
-  object-fit: contain;
-  margin-left: 14px;
-  padding-top: 12px;
-}
-#predl {
-  width: 510px;
-  height: 24px;
-  font-family: Open Sans;
-  font-size: 18px;
-  color: #454545;
-  margin-left: 695px;
-  margin-top: -33px;
-}
 #rectangle-3 {
+      width: 100%;
+      height: 600px;
+      background-color: #ffffff;
+}
+.row-2{
+  width: 100px;
+  text-align: center;
+}
+.col-2 {
+  width: 40%;
+  float: left;
+}
+.card-2-1 {
+  width: 400px;
+  height: 400px;
+  margin: 90px;
+}
+.col-2-2 {
+  width: 60%;
+  float: left;
+}
+.card-2-2 {
+  width: 600px;
+  height: 600px;
+  background-color: #924992;
+}
+
+#rectangle-4 {
   width: 1349px;
   height: 890px;
   background-color: #faf5f1;
