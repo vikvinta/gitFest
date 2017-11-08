@@ -281,11 +281,10 @@
       background-color: #ffffff;
 }
 .row-2{
-  width: 100px;
-  text-align: center;
+  width: 100%;
 }
 .col-2 {
-  width: 40%;
+  width: 33%;
   float: left;
 }
 .card-2-1 {
@@ -294,20 +293,87 @@
   margin: 90px;
 }
 .col-2-2 {
-  width: 60%;
+  width: 67%;
   float: left;
 }
 .card-2-2 {
   width: 600px;
-  height: 600px;
-  background-color: #924992;
+  height: 400px;
+  margin: 90px;
+}
+.otk {
+   font-family: Open Sans;
+  font-size: 32px;
+  font-weight: bold;
+  line-height: 1.13;
+  color: #46237a;
+}
+.platf{
+  font-family: Open Sans;
+  font-size: 21px;
+  font-weight: 300;
+  color: #454545;
+  margin-top: 12px;
+}
+.col-3{
+  width: 10%;
+  float: left;
+}
+.card-3-1{
+  width: 10px;
 }
 
+.funds-1{
+  object-fit: contain;
+  margin: 12px;
+}
+.chair{
+  margin: 10px;
+}
+.col-3-2{
+  width: 90%;
+  float: left;
+}
+.card-3-2{
+  margin-top: 11px;
+  margin-left: 5px;
+  font-family: Open Sans;
+  font-size: 18px;
+  color: #454545;
+  float: left;
+}
+.col-3{
+  width: 10%;
+  float: left;
+}
+.card-3-1{
+  width: 10px;
+}
+.oval{
+  width: 48px;
+  height: 48px;
+  background-color: #ffffff;
+  border: solid 1px #dfdfdf;
+  border-radius: 50px;
+}
+.row-pricing {
+  margin: 22px 0;
+}
+.chair{
+  object-fit: contain;
+}
+.favorites{
+  margin: 14px;
+}
+.col-3-2{
+  width: 90%;
+  float: left;
+}
 #rectangle-4 {
   width: 1349px;
   height: 890px;
   background-color: #faf5f1;
-  margin-top: 93px;
+
 }
 .h12 {
   font-family: Open Sans;
@@ -320,168 +386,16 @@
 #rectangle-col-4 {
       width: 50%;
       float: left;
-    }
-#bit {
-  width: 110px;
-  height: 110px;
-  object-fit: contain;
-  margin-left: 115px;
-  padding-top: 142px;
+
 }
-#rod {
-  width: 101px;
-  height: 21px;
-  font-family: Open Sans;
-  font-size: 18px;
-  font-weight: 600;
-  line-height: 1.17;
-  color: #46237a;
-  margin-left: 245px;
-  margin-top: -100px;
+
+.parents {
+  background-image: url(img/bitmap.png);
+  background-position: left center;
+  background-repeat: no-repeat;
+
 }
-#serv {
-  width: 500px;
-  height: 46px;
-  font-family: Open Sans;
-  font-size: 17px;
-  font-weight: 300;
-  color: #454545;
-  margin-left: 245px;
-  padding-top: 4px;
-}
-#bitm {
-  width: 110px;
-  height: 110px;
-  object-fit: contain;
-  margin-left: 115px;
-  padding-top: 75px;
-}
-#vlad {
-  height: 21px;
-  font-family: Open Sans;
-  font-size: 18px;
-  font-weight: 600;
-  line-height: 1.17;
-  color: #46237a;
-  margin-left: 245px;
-  margin-top: -100px;
-}
-#esl {
-  width: 446px;
-  height: 92px;
-  font-family: Open Sans;
-  font-size: 17px;
-  font-weight: 300;
-  color: #454545;
-  margin-left: 245px;
-  padding-top: 4px;
-}
-#bitmp {
-  width: 110px;
-  height: 110px;
-  object-fit: contain;
-  margin-left: 115px;
-  padding-top: 40px;
-}
-#vlade {
-  height: 21px;
-  font-family: Open Sans;
-  font-size: 18px;
-  font-weight: 600;
-  line-height: 1.17;
-  color: #46237a;
-  margin-left: 245px;
-  margin-top: -100px;
-}
-#esli {
-  width: 446px;
-  height: 115px;
-  font-family: Open Sans;
-  font-size: 17px;
-  font-weight: 300;
-  color: #454545;
-  margin-left: 245px;
-  padding-top: 4px;
-}
-#bitmapw {
-  width: 110px;
-  height: 110px;
-  object-fit: contain;
-  margin-left: 70px;
-  padding-top: 142px;
-}
-#ani {
-  width: 117px;
-  height: 21px;
-  font-family: Open Sans;
-  font-size: 18px;
-  font-weight: 600;
-  line-height: 1.17;
-  color: #46237a;
-  margin-left: 870px;
-  margin-top: -95px;
-}
-#spo {
-  width: 446px;
-  height: 69px;
-  font-family: Open Sans;
-  font-size: 17px;
-  font-weight: 300;
-  color: #454545;
-  margin-left: 870px;
-}
-#bitmapn {
-  width: 110px;
-  height: 110px;
-  object-fit: contain;
-  margin-left: 70px;
-  padding-top: 50px;
-}
-#org {
-  height: 21px;
-  font-family: Open Sans;
-  font-size: 18px;
-  font-weight: 600;
-  line-height: 1.17;
-  color: #46237a;
-  margin-left: 870px;
-  margin-top: -95px; 
-}
-#orga {
-  height: 69px;
-  font-family: Open Sans;
-  font-size: 17px;
-  font-weight: 300;
-  color: #454545;
-  margin-left: 870px;
-}
-#bitmapd {
-  width: 110px;
-  height: 110px;
-  object-fit: contain;
-  margin-left: 70px;
-  padding-top: 65px;
-}
-#ag {
-  width: 96px;
-  height: 21px;
-  font-family: Open Sans;
-  font-size: 18px;
-  font-weight: 600;
-  line-height: 1.17;
-  color: #46237a;
-  margin-left: 870px;
-  margin-top: -97px;
-}
-#es {
-  width: 466px;
-  height: 92px;
-  font-family: Open Sans;
-  font-size: 17px;
-  font-weight: 300;
-  color: #454545;
-  margin-left: 870px;
-}
+
 #button-3 {
   width: 330px;
   height: 50px;
