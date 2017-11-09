@@ -393,9 +393,117 @@
   background-image: url(img/bitmap.png);
   background-position: left center;
   background-repeat: no-repeat;
-
+  height: 110px;
+  margin: 50px;
+  margin-left: 64px;
 }
-
+.rod{
+  font-family: Open Sans;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.17;
+  color: #46237a;
+  margin-left: 130px;
+  padding-top: 14px;
+}
+.servis{
+  font-family: Open Sans;
+  font-weight: 300;
+  color: #454545;
+  margin-left: 130px;
+  margin-top: 4px;
+}
+.owner{
+  background-image: url(img/bitmapl.png);
+  background-position: left center;
+  background-repeat: no-repeat;
+  height: 110px;
+  margin: 50px;
+  margin-left: 64px;
+}
+.vlad{
+  font-family: Open Sans;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.17;
+  color: #46237a;
+  margin-left: 130px;
+  padding-top: 8px;
+}
+.esli{
+  font-family: Open Sans;
+  font-weight: 300;
+  color: #454545;
+  margin-left: 130px;
+  margin-top: 4px;
+}
+.owner-cafe{
+  background-image: url(img/bitmapi.png);
+  background-position: left center;
+  background-repeat: no-repeat;
+  height: 110px;
+  margin: 50px;
+  margin-left: 64px;
+}
+.vlade{
+  font-family: Open Sans;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.17;
+  color: #46237a;
+  margin-left: 130px;
+  padding-top: 8px;
+}
+.esl{
+  font-family: Open Sans;
+  font-weight: 300;
+  color: #454545;
+  margin-left: 130px;
+  margin-top: 4px;
+}
+.rectangle-col-4-right{
+      width: 50%;
+      float: left;
+}      
+.clown{
+  background-image: url(img/bitmapl.png);
+  background-position: left center;
+  background-repeat: no-repeat;
+  height: 110px;
+  padding: 50px;
+}
+.anim{
+  font-family: Open Sans;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.17;
+  color: #46237a;
+  margin-left: 75px;
+  padding-top: 8px;
+}
+.spos{
+   font-family: Open Sans;
+  font-weight: 300;
+  color: #454545;
+  margin-left: 75px;
+  margin-top: 4px;
+}
+.bitmapr{
+  background-image: url(img/bitmapn.png);
+  background-position: left center;
+  background-repeat: no-repeat;
+  height: 10px;
+  padding: 50px;
+}
+.org{
+  font-family: Open Sans;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.17;
+  color: #46237a;
+  margin-left: 75px;
+  padding-top: 8px;
+}
 #button-3 {
   width: 330px;
   height: 50px;
