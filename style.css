@@ -426,9 +426,13 @@
   color: #46237a;
   margin-top: 15px;
 }
+.butt-2{
+   text-align: center;
+   padding: 55px;
+
+}
 .button{
-  width: 240px;
-    height: 50px;
+    width: 357px;
     border-radius: 54px;
     background-color: #fb485c;
     text-align: center;
@@ -440,8 +444,43 @@
     line-height: 50px;
     margin-bottom: 85px;
 }
-.button
-
+.payment{
+  width: 100%;
+  background-color: #ffffff;
+  height: 300px;
+}
+.col-5{
+   margin-left: 70px;
+   margin-top: 100px;
+}
+.helping-item-1{
+    width: 100%;
+    clear: both;
+    margin-bottom: 20px;
+    min-height: 100px;
+    padding-top: 50px;
+}
+.helping-item-1 img{
+    float: left;
+    padding-right: 20px;
+}
+.helping-item-text-1{
+    float: left;
+    font-family: Open Sans;
+    font-size: 17px;
+    font-weight: 300;
+    width: 302px;
+    color: #2b2929;
+}
+.helping-item-text-1 h3{
+      margin-top: 0;
+    font-family: Open Sans;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 1.17;
+    color: #46237a;
+    margin-top: 15px;
+}
 #recta{
   height: 500px;
 }
@@ -510,22 +549,22 @@
   text-align: center;
 
 }
-#rectangle-col-5 {
-  width: 33,33%;
+
+.row-1{
+    text-align: center;
+    margin: 50px;
+    padding: 50px;
 }
 #cvadr1 {
   width: 330px;
   height: 300px;
   background-color: #fb485c;
-  margin-left: 120px;
-  margin-top: 50px;
 }
 #bitmapc {
    width: 110px;
   height: 110px;
   object-fit: contain;
   box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.24);
-  margin-left: 110px;
   margin-top: -50px;
 }
 .name {
@@ -544,22 +583,22 @@
   margin-left: 141px;
   margin-top: 20px;
 }
+.sv{
+  width: 319px;
+}
 #svo {
-   width: 290px;
   height: 92px;
   font-family: Open Sans;
   font-size: 17px;
   font-weight: 300;
   text-align: center;
   color: #ffffff;
-  margin-left: 20px;
   margin-top: 20px;
 }
 #bitmape {
    width: 38.6px;
   height: 30px;
   object-fit: contain;
-  margin-left: 146px;
   margin-top: 10px;
 }
 #rectangle-col-5 {
@@ -567,10 +606,8 @@
 }
 #cvadr2 {
   width: 330px;
-  height: 300px;
   background-color: #924992;
-  margin-top: -300px;
-  margin-left: 540px;
+  height: 300px;
 }
 #bitmapy {
   width: 110px;
