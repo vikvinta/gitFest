@@ -99,7 +99,7 @@
 }
 #rectangle-2 {
    width: 100%;
-   height: 600px;
+   height: 773px;
    background-color: #ffffff;
 }
 .rectangle-22 {
@@ -370,7 +370,7 @@
   float: left;
 }
 #rectangle-4 {
-  width: 1349px;
+  width: 100%;
   height: 890px;
   background-color: #faf5f1;
 
@@ -388,140 +388,60 @@
       float: left;
 
 }
+.col-4{
+  margin-left: 70px;
+  margin-top: 50px;
+}
 
-.parents {
-  background-image: url(img/bitmap.png);
-  background-position: left center;
-  background-repeat: no-repeat;
-  height: 110px;
-  margin: 50px;
-  margin-left: 64px;
+.helping-item {
+  width: 100%;
+  clear:both;
+  margin-bottom: 20px;
+  min-height: 100px;
+  padding-top:  50px;
 }
-.rod{
-  font-family: Open Sans;
-  font-size: 18px;
-  font-weight: 600;
-  line-height: 1.17;
-  color: #46237a;
-  margin-left: 130px;
-  padding-top: 14px;
+
+.helping-item img {
+  width: 100px;
+  float: left;
+  padding-right: 20px;
 }
-.servis{
+
+.helping-item-text {
+  width: 457px;
+  float: left;
   font-family: Open Sans;
+  font-size: 17px;
   font-weight: 300;
   color: #454545;
-  margin-left: 130px;
-  margin-top: 4px;
+  padding-top:  4px;
 }
-.owner{
-  background-image: url(img/bitmapl.png);
-  background-position: left center;
-  background-repeat: no-repeat;
-  height: 110px;
-  margin: 50px;
-  margin-left: 64px;
-}
-.vlad{
+
+.helping-item-text h3 {
+  margin-top: 0;
   font-family: Open Sans;
   font-size: 18px;
   font-weight: 600;
   line-height: 1.17;
   color: #46237a;
-  margin-left: 130px;
-  padding-top: 8px;
+  margin-top: 15px;
 }
-.esli{
-  font-family: Open Sans;
-  font-weight: 300;
-  color: #454545;
-  margin-left: 130px;
-  margin-top: 4px;
+.button{
+  width: 240px;
+    height: 50px;
+    border-radius: 54px;
+    background-color: #fb485c;
+    text-align: center;
+    margin: 0 auto;
+    font-family: Open Sans;
+    font-size: 18px;
+    font-weight: 600;
+    color: #ffffff;
+    line-height: 50px;
+    margin-bottom: 85px;
 }
-.owner-cafe{
-  background-image: url(img/bitmapi.png);
-  background-position: left center;
-  background-repeat: no-repeat;
-  height: 110px;
-  margin: 50px;
-  margin-left: 64px;
-}
-.vlade{
-  font-family: Open Sans;
-  font-size: 18px;
-  font-weight: 600;
-  line-height: 1.17;
-  color: #46237a;
-  margin-left: 130px;
-  padding-top: 8px;
-}
-.esl{
-  font-family: Open Sans;
-  font-weight: 300;
-  color: #454545;
-  margin-left: 130px;
-  margin-top: 4px;
-}
-.rectangle-col-4-right{
-      width: 50%;
-      float: left;
-}      
-.clown{
-  background-image: url(img/bitmapl.png);
-  background-position: left center;
-  background-repeat: no-repeat;
-  height: 110px;
-  padding: 50px;
-}
-.anim{
-  font-family: Open Sans;
-  font-size: 18px;
-  font-weight: 600;
-  line-height: 1.17;
-  color: #46237a;
-  margin-left: 75px;
-  padding-top: 8px;
-}
-.spos{
-   font-family: Open Sans;
-  font-weight: 300;
-  color: #454545;
-  margin-left: 75px;
-  margin-top: 4px;
-}
-.bitmapr{
-  background-image: url(img/bitmapn.png);
-  background-position: left center;
-  background-repeat: no-repeat;
-  height: 10px;
-  padding: 50px;
-}
-.org{
-  font-family: Open Sans;
-  font-size: 18px;
-  font-weight: 600;
-  line-height: 1.17;
-  color: #46237a;
-  margin-left: 75px;
-  padding-top: 8px;
-}
-#button-3 {
-  width: 330px;
-  height: 50px;
-  border-radius: 66px;
-  background-color: #fb485c;
-  margin-left: 555px;
-  margin-top: 85px;
-}
-#par {
-  width: 270px;
-  height: 22px;
-  font-family: Open Sans;
-  font-size: 16px;
-  font-weight: 600;
-  color: #ffffff;
-  margin-left: 30px;
-  padding-top:  13px;
-}
+.button
+
 #recta{
   height: 500px;
 }
