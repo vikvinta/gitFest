@@ -6,7 +6,13 @@
 	padding: 0px;
 }
 
-
+.log-2{
+  margin-left: 130px;
+    margin-top: 10px;
+}
+.plt-1{
+  margin-left: 44px;
+}
 #rectangle {
 	width: 100%;
 	height: 580px;
@@ -21,7 +27,7 @@
       line-height: 1.15;
       color: #7d639f;
       text-align: left;
-      margin-left: 180px;
+      
 }
 
 #button {
@@ -86,8 +92,6 @@
 }
 #logo-2 {
   width: 111px;
-  padding-left: 130px; 
-  margin-top: 10px;
 }
 #fon {
   background-image: url(img/group-14.png);
@@ -555,12 +559,12 @@
     margin: 50px;
     padding: 50px;
 }
-#cvadr1 {
+.cvadr1 {
   width: 330px;
   height: 300px;
   background-color: #fb485c;
 }
-#bitmapc {
+.bitmapc {
    width: 110px;
   height: 110px;
   object-fit: contain;
@@ -576,7 +580,7 @@
   text-align: center;
   margin-top: 25px;
 }
-#pol {
+.pol {
    width: 48px;
   height: 2px;
   background-color: #ffffff;
@@ -586,7 +590,7 @@
 .sv{
   width: 319px;
 }
-#svo {
+.svo {
   height: 92px;
   font-family: Open Sans;
   font-size: 17px;
@@ -595,121 +599,78 @@
   color: #ffffff;
   margin-top: 20px;
 }
-#bitmape {
+.bitmape {
    width: 38.6px;
   height: 30px;
   object-fit: contain;
   margin-top: 10px;
 }
-#rectangle-col-5 {
-  width: 33,33%;
-}
-#cvadr2 {
+
+.cvadr2 {
   width: 330px;
   background-color: #924992;
   height: 300px;
 }
-#bitmapy {
-  width: 110px;
-  height: 110px;
-  object-fit: contain;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.24);
-  margin-left: 110px;
-  margin-top: -50px;
-}
 
-.name {
-  font-family: Open Sans;
-  font-size: 18px;
-  font-weight: 600;
-  line-height: 1.17;
-  color: #ffffff;
-  text-align: center;
-  margin-top: 25px;
-}
-#odno {
-  width: 290px;
-  height: 92px;
-  font-family: Open Sans;
-  font-weight: 300;
-  text-align: center;
-  color: #ffffff;
-  margin-left: 20px;
-  margin-top: 20px;
-}
-#rectangle-col-5 {
-  width: 33,33%;
-}
-#cvadr3{
+
+
+.cvadr3{
   width: 330px;
   height: 300px;
-  background-color: #46237a;
-  margin-left: 955px;
-  margin-top: -300px;
+background-color: #46237a;
+
 }
-#bitmapa {
-  width: 110px;
-  height: 110px;
-  object-fit: contain;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.24);
-  margin-left: 110px;
-  margin-top: -50px;
-}
-.name {
-  font-family: Open Sans;
-  font-size: 18px;
-  font-weight: 600;
-  line-height: 1.17;
-  color: #ffffff;
-  margin-top: 25px;
-  text-align: center;
-}
-#servi {
-  width: 290px;
-  height: 92px;
-  font-family: Open Sans;
-  font-size: 17px;
-  font-weight: 300;
-  text-align: center;
-  color: #ffffff;
-  margin-left: 20px;
-  margin-top: 20px; 
+.g13{
+    text-align: right;
+    margin-right: 220px;
+    margin-top: 357px;
 }
 #group-13 {
-  width: 69px;
   height: 102px;
   object-fit: contain;
-  margin-left: 1086px;
-  margin-top: 60px;
 }
-#rectangle-5 {
+.rectangle-5 {
   width: 1347px;
-  height: 250px;
+  height: 278px;
   background-color: #46237a;
   border: solid 1px #979797;
+}
+.col-l{
+  width: 67%;
+  float:left;
+}
+.card-l{
+  height: 10px;
+  margin: 90px;
+}
+.col-r{
+  width: 33%;
+  float: left;
+}
+.card-r{
+  margin: 90px;
+  height: 10px;
+  text-align: center;
 }
 #rectangle-col-8 {
   width: 60%;
 }
-#ost {
+.ost {
   height: 43px;
   font-family: Open Sans;
   font-size: 30px;
   font-weight: 300;
   color: #ffffff;
-  margin-left: 155px;
+  text-align: left;
   margin-top: 54px;
 }
 #rectangle-col-9 {
   width: 40%;
 }
 #button4{
-  width: 250px;
   height: 50px;
   border-radius: 66px;
   background-color: #fb485c;
-  margin-left: 985px;
-  margin-top: -40px;
 }
 #zadat {
   width: 118px;
@@ -721,85 +682,61 @@
   margin-left: 66px;
   padding-top: 13px;
 }
-#polo {
-   width: 1345px;
+.pls{
+  width: 100%;
+  margin-top: 190px;
+}
+.polo {
   height: 1px;
-  opacity: 0.2;
   background-color: #ffffff;
-  margin-top: 63px;
 }
-#contanier {
-  display: block;
+.rectangle-col-5{
+  width: 56%;
+  float: left;
 }
-#logo-2 {
-  width: 111px;
-  height: 45px;
-  object-fit: contain;
-  margin-left: 5px;
+.rectangle-col-6{
+  width: 44%;
+  float: left;
+}
+.r{
   margin-top: 15px;
 }
-#contener-right {
-      width: 50%;
-      float: left;
+.get{
+  margin-left: 100px;
+  margin-top: 10px;
 }
-#close-envelope-2 {
-  width: 16px;
+.con{
+  margin-top: 11px;
+}
+.conv{
   height: 12px;
   object-fit: contain;
   opacity: 0.5;
-  margin-left: 835px;
-  margin-top: -50px;
+  width: 16px
 }
-#container {
-  width: 50%;
-}
-#col {
+.card-3-p{
+  margin-left: 5px;
+  font-size: 18px;
   float: left;
-  width: 50%;
-  margin-top: 25px;
-}
-#logo-2 {
-  width: 111px;
-  height: 45px;
-  object-fit: contain;
-}
-.icon {
-  background-image: url(img/close-envelope-2.png);
-  background-position: left center;
-  background-repeat: no-repeat;
-  padding-left: 24px;
-  width: 145px;
-  height: 28px;
   font-family: Open Sans;
+}
+.card-3-i{
+  font-family: Open Sans;
+  font-size: 18px;
   font-weight: 300;
   color: #ffffff;
 }
-
-#telef {
-  background-image: url(img/phone-receiver.png);
-  background-position: left center;
-  background-repeat: no-repeat;
-  padding-left: 24px;
-  width: 180px;
-  height: 28px;
-  font-family: Open Sans;
-  font-weight: 300;
-  color: #ffffff;
-  margin-left: 400px;
-  padding-top: 90px;
+.lo{
+object-fit: contain;
 }
-#nom {
-	margin-left: 425px;
-	margin-top: -67px; 
-}
-
 .rectangle-col {
-      width: 50%;
+      width: 80%;
       float: left;
 }
 
 .rectangle-col-right {
-      text-align: right;
+      text-align: left;
+      width: 20%;
 }
 .rectangle-2-col-left {
       width: 33,33%;
